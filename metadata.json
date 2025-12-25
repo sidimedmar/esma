@@ -1,0 +1,7 @@
+{
+  "name": "FilterStudio Pro",
+  "description": "Plateforme de création et boutique de filtres événementiels avec partage social et paiement sécurisé.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
